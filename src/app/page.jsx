@@ -1,10 +1,10 @@
-import Image from "next/image";
+import styles from "./styles/index.module.scss";
 
 
 export default function Home() {
   return (
-    <main>
-      <Image src="https://i.ibb.co/FYFjT6t/megumi.jpg" alt="logo" width={380} height={250} />
+    <main className={styles.home}>
+      <div>megumi entradas</div>
     </main>
   );
 }
