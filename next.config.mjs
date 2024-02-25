@@ -4,6 +4,9 @@ const nextConfig = {
         remotePatterns: [
             {
                 hostname: 'i.ibb.co'
+            },
+            {
+                hostname: 'img.freepik.com'
             }
         ]
     }

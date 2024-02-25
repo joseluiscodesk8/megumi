@@ -1,3 +1,23 @@
 @use "./components/Logo";
 @use "./components/Navbar";
 @use "./components/Home";
+
+.menuContainer {
+    border: 1px solid #fff;
+    text-align: center;
+    color: #fff;
+
+    & .menuItems {
+        padding: 2%;
+        border: 1px solid #fff;
+
+        & .menuItem {
+            border: 1px solid #fff;
+            color: #ff0000;
+
+            // & img {
+            //     width: 100%;
+            // }
+        }
+    }
+}

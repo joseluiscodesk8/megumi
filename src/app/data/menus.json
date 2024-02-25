@@ -1,0 +1,35 @@
+{
+    "menu": [
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "Plato 1",
+        "precio": 10.99,
+        "descripcion": "Delicioso plato con ingredientes frescos y sabrosos."
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "Plato 2",
+        "precio": 12.50,
+        "descripcion": "Una combinación única de sabores que te sorprenderá."
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "Plato 3",
+        "precio": 9.75,
+        "descripcion": "Una opción saludable y deliciosa para disfrutar en cualquier momento del día."
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "Plato 4",
+        "precio": 15.25,
+        "descripcion": "Un plato gourmet preparado con los ingredientes más finos y frescos."
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "Plato 5",
+        "precio": 11.99,
+        "descripcion": "Una explosión de sabores en cada bocado, ¡te encantará!"
+      }
+    ]
+  }
+  
