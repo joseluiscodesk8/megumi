@@ -3,21 +3,29 @@
 @use "./components/Home";
 
 .menuContainer {
-    border: 1px solid #fff;
+    // border: 1px solid #fff;
     text-align: center;
     color: #fff;
 
-    & .menuItems {
+    & section {
         padding: 2%;
-        border: 1px solid #fff;
+        // border: 1px solid #fff;
 
-        & .menuItem {
-            border: 1px solid #fff;
-            color: #ff0000;
-
-            // & img {
-            //     width: 100%;
-            // }
+        & .menuItems {
+            // border: 1px solid #fff;
+            
+            & div {
+                display: flex;
+                // border: 1px solid #fff;
+                justify-content: space-evenly;
+                align-items: center;
+            }
+            & img {
+                width: 100%;
+                max-width: 550px;
+                border-radius: 15px;
+                box-shadow: 0 0 3px #fbff17;
+            }
         }
     }
 }
