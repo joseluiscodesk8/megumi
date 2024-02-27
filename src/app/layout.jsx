@@ -4,6 +4,7 @@ import dynamic from "next/dynamic";
 
 const DynamicLogo = dynamic(() => import('./components/Logo'));
 const DynamicNavbar = dynamic(() => import('./components/Navbar'));
+const DynamicFooter = dynamic(() => import('./components/Footer'));
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,7 +16,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}><DynamicLogo /><DynamicNavbar />{children}</body>
+      <body className={inter.className}><DynamicLogo /><DynamicNavbar />{children}<DynamicFooter /></body>
     </html>
   );
 }

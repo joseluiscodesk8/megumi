@@ -1,13 +1,16 @@
 @use "./components/Logo";
 @use "./components/Navbar";
 @use "./components/Home";
+@use "./components/Footer";
 
 .menuContainer {
-    // border: 1px solid #fff;
     text-align: center;
     color: #fff;
 
     & section {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
         padding: 2%;
         // border: 1px solid #fff;
 
