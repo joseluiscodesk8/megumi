@@ -25,9 +25,9 @@ export default function Home() {
             />
             <div>
               <h2>{item.nombre}</h2>
-              <p>Precio: ${item.precio}</p>
+              <p>${item.precio}</p>
             </div>
-            <p>{item.descripcion}</p>
+            <p className={styles.description}>{item.descripcion}</p>
           </motion.div>
         ))}
       </section>
