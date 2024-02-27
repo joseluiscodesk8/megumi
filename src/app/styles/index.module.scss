@@ -4,31 +4,40 @@
 @use "./components/Footer";
 
 .menuContainer {
-    text-align: center;
-    color: #fff;
+  text-align: center;
+  color: #fff;
 
-    & section {
+  & section {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 2%;
+    // border: 1px solid #fff;
+
+    & .menuItems {
+      // border: 1px solid #fff;
+
+      & div {
         display: flex;
-        flex-direction: column;
-        gap: 15px;
-        padding: 2%;
-        // border: 1px solid #fff;
+        justify-content: space-evenly;
+        align-items: center;
+        transform: translate(0, -30px);
 
-        & .menuItems {
-            // border: 1px solid #fff;
-            
-            & div {
-                display: flex;
-                // border: 1px solid #fff;
-                justify-content: space-evenly;
-                align-items: center;
-            }
-            & img {
-                width: 100%;
-                max-width: 550px;
-                border-radius: 15px;
-                box-shadow: 0 0 3px #fbff17;
-            }
+        & h2,
+        p {
+          color: #fffb00;
+          text-shadow: -2px -2px 0 #ff0000, 2px -2px 0 #ff0000, -2px 2px 0 #ff0000,
+            2px 2px 0 #ff0000;
+          font-size: 2rem;
+          font-weight: 800;
         }
+      }
+      & img {
+        width: 100%;
+        max-width: 550px;
+        border-radius: 15px;
+        box-shadow: 0 0 3px #fbff17;
+      }
     }
+  }
 }
