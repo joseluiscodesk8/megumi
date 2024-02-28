@@ -1,17 +1,18 @@
 .Footer {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    color: #fff;
-    height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  color: #fff;
+  height: 250px;
 
-    & span {
-      color: #e6e6e6;
-          text-shadow: 0 0 2px #fff;
-          font-size: 1.2rem;
-          font-weight: bold;
-          letter-spacing: 1px;
-    }
+  & span {
+    color: #e6e6e6;
+    text-shadow: 0 0 2px #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration-line: none;
   }
+}
