@@ -2,31 +2,31 @@
     "menu": [
       {
         "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ENSALADA MEGUMI",
-        "precio": "21.500",
-        "descripcion": "Kanikama Wakame, en salsa dinamita con lluvia de ajonjolí, camarones y palmito de cangrejo crocante."
+        "nombre": "ARROZ CHAUFA CON CAMARONES",
+        "precio": "27.000",
+        "descripcion": "camarones, pollo, cerdo ahumado, tortilla de huevo y acompañado de nachos y salsa especíal."
       },
       {
         "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "PALMITOS DE CANGREJO",
-        "precio": "15.000",
-        "descripcion": "Crocantes con salsa espescial."
+        "nombre": "ARROZ YAKIMESHI",
+        "precio": "27.000",
+        "descripcion": "Un kilo de arroz salteado con pollo, cerdo ahumado, camarones tortilla de huevo salteado con salsa de ostras y acompañado con nachos y salsa especial."
       },
       {
         "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "SASHIMI DE SALMON Y ATUN FRESCO",
-        "precio": "18.000"
+        "nombre": "ARROZ AMAZONICO",
+        "precio": "27.000"
       },
       {
         "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "TEMAKI DE SALMON, KANIKAMA Y ATUN",
-        "precio": "18.500 $14.000",
+        "nombre": "ARROZ CON MARISCOS",
+        "precio": "32.000",
         "descripcion": "Con aguacate y lluvia de ajonjolí."
       },
       {
         "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "NIGIRI DE SALMON, ATUN Y KANIKAMA",
-        "precio": "14.000 $11.000",
+        "nombre": "COMBO DE ARROZ CON 3 ACOMPAÑANTES",
+        "precio": "36.000",
         "descripcion": "Salmón y atún 3 unidades."
       }
     ]
