@@ -1,0 +1,34 @@
+{
+    "menu": [
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "QUESITO ROLL",
+        "precio": "18.000 6 bocados $21.000 10 bocados",
+        "descripcion": "Crocante por fuera con plátano maduro tempurizado, que y queso crema con topping de de Camarón crocante bañado con queso fundido."
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "ARROZ YAKIMESHI",
+        "precio": "27.000",
+        "descripcion": "Un kilo de arroz salteado con pollo, cerdo ahumado, camarones tortilla de huevo salteado con salsa de ostras y acompañado con nachos y salsa especial."
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "ARROZ AMAZONICO",
+        "precio": "27.000"
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "ARROZ CON MARISCOS",
+        "precio": "32.000",
+        "descripcion": "Con aguacate y lluvia de ajonjolí."
+      },
+      {
+        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
+        "nombre": "COMBO DE ARROZ CON 3 ACOMPAÑANTES",
+        "precio": "36.000",
+        "descripcion": "Salmón y atún 3 unidades."
+      }
+    ]
+  }
+  
