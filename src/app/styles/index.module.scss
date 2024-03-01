@@ -12,6 +12,13 @@
     background-size: 100%;
   }
 
+  
+  & h2 {
+    margin: auto;
+    width: 100%;
+    max-width: 400px;
+  }
+
   & section {
     display: flex;
     flex-direction: column;
