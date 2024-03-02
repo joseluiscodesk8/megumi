@@ -1,20 +1,32 @@
-import styles from "../styles/index.module.scss"
+'use client'
+
+import { motion } from "framer-motion";
+import styles from "../styles/index.module.scss";
 import { FaInstagram, FaFacebook, FaTiktok, FaPhoneAlt } from 'react-icons/fa';
 import { RiWhatsappLine } from 'react-icons/ri'; 
-
-
 
 const Footer = () => {
   return (
     <footer className={styles.Footer}>
-      <span><FaInstagram /> megumisushi</span>
-      <span><FaFacebook /> megumi.sushi0213</span>
-      <span><FaTiktok /> megumisushi.cucuta</span>
-      <span><RiWhatsappLine /> 315 4358290</span>
-      <span><FaPhoneAlt /> 75492302</span>
+      <motion.span whileHover={{ scale: 1.1 }} animate={{ opacity: [1, 0.5, 1] }} transition={{ duration: 1, repeat: Infinity, repeatType: "reverse" }}>
+        <FaInstagram /> megumisushi
+      </motion.span>
+      <motion.span whileHover={{ scale: 1.1 }} animate={{ opacity: [1, 0.5, 1] }} transition={{ duration: 1, repeat: Infinity, repeatType: "reverse" }}>
+        <FaFacebook /> megumi.sushi0213
+      </motion.span>
+      <motion.span whileHover={{ scale: 1.1 }} animate={{ opacity: [1, 0.5, 1] }} transition={{ duration: 1, repeat: Infinity, repeatType: "reverse" }}>
+        <FaTiktok /> megumisushi.cucuta
+      </motion.span>
+      <motion.span whileHover={{ scale: 1.1 }} animate={{ opacity: [1, 0.5, 1] }} transition={{ duration: 1, repeat: Infinity, repeatType: "reverse" }}>
+        <RiWhatsappLine /> 315 4358290
+      </motion.span>
+      <motion.span whileHover={{ scale: 1.1 }} animate={{ opacity: [1, 0.5, 1] }} transition={{ duration: 1, repeat: Infinity, repeatType: "reverse" }}>
+        <FaPhoneAlt /> 75492302
+      </motion.span>
     </footer>
   );
 };
 
 export default Footer;
+
 
