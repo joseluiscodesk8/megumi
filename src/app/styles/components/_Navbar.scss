@@ -15,11 +15,10 @@
       display: grid;
       place-content: center;
       margin: auto;
-      // border: 1px solid #fff;
-      box-shadow: inset 0 0 5px #ff2323;
+      // box-shadow: inset 0 0 5px #ff2323;
       border-radius: 15px;
       border: 1px solid #ffbc14;
-      background-size: 100% 100%;
+      animation: shadow-animation 2s infinite;
 
       & a {
         text-decoration: none;
@@ -29,5 +28,17 @@
         letter-spacing: 1.5px;
       }
     }
+  }
+}
+
+@keyframes shadow-animation {
+  0% {
+    box-shadow: inset 0 0 5px #ff2323;
+  }
+  50% {
+    box-shadow: inset 0 0 15px #ff2323;
+  }
+  100% {
+    box-shadow: inset 0 0 5px #ff2323;
   }
 }

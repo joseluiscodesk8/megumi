@@ -12,7 +12,7 @@ const Especialidades = () => {
   return (
     <main className={styles.menuContainer}>
       <h1>Especialidades</h1>
-      <h2>Todos nuestros arroces vienen en peso de un kilo para compartir</h2>
+      {/* <h2>Todos nuestros arroces vienen en peso de un kilo para compartir</h2> */}
       <section>
         {menuData.menu.map((item, index) => (
           <motion.div  key={item.nombre}

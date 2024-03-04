@@ -1,33 +1,34 @@
 {
     "menu": [
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ARROZ CHAUFA CON CAMARONES",
+        "imagen": "https://img.freepik.com/fotos-premium/delicioso-bol-pollo-teriyaki-donburi-rebanadas-aguacate-jengibre-encurtido_928211-1282.jpg",
+        "nombre": "Donburi de Pollo Teriyaki",
         "precio": "27.000",
-        "descripcion": "camarones, pollo, cerdo ahumado, tortilla de huevo y acompañado de nachos y salsa especíal."
+        "descripcion": "Tazón de arroz japonés cubierto con cerdo empanizado, huevo y cebolla en caldo dashi."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ARROZ YAKIMESHI",
+        "imagen": "https://www.nikkori.mx/wp-content/uploads/2023/01/Yakimeshi-de-Mariscos.jpg",
+        "nombre": "Yakimeshi de Mariscos",
         "precio": "27.000",
-        "descripcion": "Un kilo de arroz salteado con pollo, cerdo ahumado, camarones tortilla de huevo salteado con salsa de ostras y acompañado con nachos y salsa especial."
+        "descripcion": "Arroz frito japonés con camarones, calamares, pescado y vegetales."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ARROZ AMAZONICO",
-        "precio": "27.000"
+        "imagen": "https://cdn2.egglandsbest.com/assets/images/recipes/_facebookOgTransform/Omurice-Japanese-Stir-Fried-Rice-with-Eggs.jpg",
+        "nombre": "Omurice",
+        "precio": "27.000",
+        "descripcion": "Arroz japonés frito envuelto en una tortilla de huevo, con salsa de tomate y relleno de pollo o camarones."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ARROZ CON MARISCOS",
+        "imagen": "https://i0.wp.com/yummybarcelona.com/wp-content/uploads/2021/02/katsudon-3.jpg?fit=1600%2C1200&ssl=1",
+        "nombre": "Katsudon",
         "precio": "32.000",
-        "descripcion": "Con aguacate y lluvia de ajonjolí."
+        "descripcion": "Tazón de arroz japonés cubierto con cerdo empanizado, huevo y cebolla en caldo dashi."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "COMBO DE ARROZ CON 3 ACOMPAÑANTES",
+        "imagen": "https://cookingwithdog.com/wp-content/uploads/2020/10/sanma-takikomi-gohan-00.jpg",
+        "nombre": "Takikomi Gohan",
         "precio": "36.000",
-        "descripcion": "Salmón y atún 3 unidades."
+        "descripcion": "Arroz japonés cocido con setas, vegetales y pollo en caldo dashi."
       }
     ]
   }

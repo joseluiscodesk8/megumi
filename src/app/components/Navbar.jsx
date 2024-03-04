@@ -8,16 +8,16 @@ const Navbar = () => {
     return(
         <nav className={styles.navBar}>
             <ul>
-                <motion.li whileTap={{ scale: 0.95 }} animate={{ scale: [1, 0.8, 1] }} transition={{ duration: 5, repeat: Infinity, repeatType: "reverse" }}>
+                <motion.li whileTap={{ scale: 0.8 }}>
                     <Link href="/">Entradas</Link>
                 </motion.li>
-                <motion.li whileTap={{ scale: 0.95 }} animate={{ scale: [1, 0.8, 1] }} transition={{ duration: 5, repeat: Infinity, repeatType: "reverse" }}>
+                <motion.li whileTap={{ scale: 0.8 }}>
                     <Link href="/especialidades">Especialidades</Link>
                 </motion.li>
-                <motion.li whileTap={{ scale: 0.95 }} animate={{ scale: [1, 0.8, 1] }} transition={{ duration: 5, repeat: Infinity, repeatType: "reverse" }}>
+                <motion.li whileTap={{ scale: 0.8 }}>
                     <Link href="/roll">Roll Cortante</Link>
                 </motion.li>
-                <motion.li whileTap={{ scale: 0.95 }} animate={{ scale: [1, 0.8, 1] }} transition={{ duration: 5, repeat: Infinity, repeatType: "reverse" }}>
+                <motion.li whileTap={{ scale: 0.8 }}>
                     <Link href="/tradicionales">Tradicionales</Link>
                 </motion.li>
             </ul>
