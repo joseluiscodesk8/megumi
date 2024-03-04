@@ -1,0 +1,35 @@
+{
+    "menu": [
+      {
+        "imagen": "https://i.ytimg.com/vi/QlyfDPSxAmY/sddefault.jpg",
+        "nombre": "Nigiri de Salmón",
+        "precio": "18.000",
+        "descripcion": "Finas lonchas de salmón fresco sobre una base de arroz ligeramente sazonado."
+      },
+      {
+        "imagen": "https://static.wixstatic.com/media/cf3807_537a4d60581141478ed2883159831e84~mv2.jpg/v1/fill/w_1023,h_683,al_c,q_85,enc_auto/cf3807_537a4d60581141478ed2883159831e84~mv2.jpg",
+        "nombre": "Sashimi de Atún",
+        "precio": "27.000",
+        "descripcion": "Deliciosas rodajas de atún crudo, cortadas finamente para realzar su sabor."
+      },
+      {
+        "imagen": "https://www.paulinacocina.net/wp-content/uploads/2023/07/maki-comida.jpg",
+        "nombre": "Maki de Pepino",
+        "precio": "24.000",
+        "descripcion": "Roll de sushi clásico con pepino fresco envuelto en alga nori y arroz."
+      },
+      {
+        "imagen": "https://i.blogs.es/498b2f/temaki-20de-20salmon-20mango-20y-20aguacate/450_1000.jpg",
+        "nombre": "Temaki de Langostino",
+        "precio": "18.000",
+        "descripcion": "Cónico de alga nori relleno de langostino tempura, arroz y aguacate."
+      },
+      {
+        "imagen": "https://www.asiamarket.ie/pub/media/wysiwyg/recipes/L-Recipe-uramaki-california-roll.jpg",
+        "nombre": "Uramaki de California",
+        "precio": "20.000",
+        "descripcion": "Roll invertido que combina kanikama, aguacate y pepino, envuelto en alga nori y arroz por fuera."
+      }
+    ]
+  }
+  

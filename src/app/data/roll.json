@@ -2,32 +2,33 @@
     "menu": [
       {
         "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "QUESITO ROLL",
-        "precio": "18.000 6 bocados $21.000 10 bocados",
-        "descripcion": "Crocante por fuera con plátano maduro tempurizado, que y queso crema con topping de de Camarón crocante bañado con queso fundido."
+        "nombre": "California Roll",
+        "precio": "23.000",
+        "descripcion": "Un roll clásico que combina kanikama, aguacate y pepino envuelto en alga nori y arroz."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ARROZ YAKIMESHI",
-        "precio": "27.000",
-        "descripcion": "Un kilo de arroz salteado con pollo, cerdo ahumado, camarones tortilla de huevo salteado con salsa de ostras y acompañado con nachos y salsa especial."
+        "imagen": "https://www.kikkoman.eu/fileadmin/_processed_/0/f/csm_1025-recipe-page-Spicy-tuna-and-salmon-rolls_desktop_2f6a2945d7.webp",
+        "nombre": "Spicy Tuna Roll",
+        "precio": "25.000",
+        "descripcion": "Un roll picante hecho con atún, mayonesa picante y cebolla verde."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ARROZ AMAZONICO",
-        "precio": "27.000"
+        "imagen": "https://recipes.net/wp-content/uploads/2022/01/dragon-roll-recipe.jpg",
+        "nombre": "Dragon Roll",
+        "precio": "25.000",
+        "descripcion": "Un roll extravagante que incluye anguila, aguacate, queso crema y cangrejo tempura, cubierto con láminas de aguacate."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "ARROZ CON MARISCOS",
-        "precio": "32.000",
-        "descripcion": "Con aguacate y lluvia de ajonjolí."
+        "imagen": "https://www.comedera.com/wp-content/uploads/2023/08/shutterstock_607776707.jpg",
+        "nombre": "Rainbow Roll",
+        "precio": "22.000",
+        "descripcion": "Un roll colorido que presenta una variedad de pescados y mariscos, como salmón, atún, langostino, aguacate y pepino."
       },
       {
-        "imagen": "https://img.freepik.com/foto-gratis/frescura-enrollada-plato-enfoque-selectivo-maki-sushi-generado-inteligencia-artificial_25030-67004.jpg",
-        "nombre": "COMBO DE ARROZ CON 3 ACOMPAÑANTES",
-        "precio": "36.000",
-        "descripcion": "Salmón y atún 3 unidades."
+        "imagen": "https://vebaresourcecenter.com/wp-content/uploads/2021/12/VEBA_2021-12-03_Sushi.jpg",
+        "nombre": "Vegetarian Roll",
+        "precio": "20.000",
+        "descripcion": "Una opción vegetariana que combina pepino, aguacate, zanahoria y queso crema, perfecta para aquellos que prefieren no comer pescado o mariscos."
       }
     ]
   }
