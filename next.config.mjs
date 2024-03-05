@@ -9,7 +9,7 @@ const nextConfig = {
                 hostname: 'img.freepik.com'
             }
         ]
-    }
+    },
 };
 
 export default nextConfig;

@@ -1,5 +1,6 @@
 'use client'
 
+import { useEffect } from "react";
 import Image from "next/image";
 import styles from "./styles/index.module.scss";
 import menuData from "./data/menus.json";
@@ -7,6 +8,20 @@ import { motion } from "framer-motion";
 import LazyImage from "./ui/LazyImage";
 
 export default function Home() {
+
+  useEffect(() => {
+    if ('serviceWorker' in navigator && window.matchMedia('(display-mode: standalone)').matches) {
+      window.addEventListener('beforeinstallprompt', (event) => {
+        // Prevent Chrome 67 and earlier from automatically showing the prompt
+        event.preventDefault();
+        // Stash the event so it can be triggered later.
+        deferredPrompt = event;
+        // Update UI to notify the user they can add to home screen
+        showInstallPromotion();
+      });
+    }
+  }, []);
+  
   return (
     <main className={styles.menuContainer}>
       <h1>Entradas</h1>

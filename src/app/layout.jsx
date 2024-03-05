@@ -12,6 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Megumi sushi & wok",
   description: "Megumi sushi & wok",
+  manifest: "/manifest.json"
 };
 
 export default function RootLayout({ children }) {
